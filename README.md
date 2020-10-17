@@ -12,3 +12,5 @@ This repository consist of some custom views and UI components for android
 
 # Screenshot
 <img src="screenshots/ss2.png">
+
+ADDED Multiple ProgressBar. 
